@@ -1,8 +1,8 @@
 # Hi, I'm Ayub 
 
-BTech Computer Science Student  
+BE Information Science Student  
 Aspiring Data Science Intern  
-Skilled in Python, Pandas, NumPy  
+Skilled in Python, Machine Learning
 
 
 ## What I Do
