@@ -6,7 +6,8 @@ Skilled in Python, Machine Learning
 
 
 ## What I Do
-- Data Cleaning & Preprocessing  
+- Data Cleaning & Preprocessing
+- Machine Learning  
 - Exploratory Data Analysis (EDA)  
 - Working with real-world datasets  
 
