@@ -35,7 +35,7 @@
 - Achieved best performance using Random Forest Regressor
 
 🔗 GitHub Repository:  
-https://github.com/ayub46584-cell/House-Price-Prediction-ML
+https://github.com/ayub-datascience/House-Price-Prediction-ML
 
 
 ### 📊 CodeBook User Data Analysis
