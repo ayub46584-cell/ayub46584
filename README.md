@@ -20,8 +20,25 @@ Skilled in Python, Machine Learning
 - Machine Learning
 
 ## Projects
-- CodeBook User Data Analysis  
-  → Explored and cleaned user dataset using Pure Python  
+
+###  House Price Prediction using Machine Learning
+- Built an end-to-end Machine Learning project to predict house prices
+- Performed data preprocessing using pipelines
+- Used Stratified Shuffle Split for train-test splitting
+- Trained models using:
+  - Linear Regression
+  - Decision Tree Regressor
+  - Random Forest Regressor
+- Applied Cross Validation for model selection
+- Achieved best performance using Random Forest Regressor
+
+ GitHub Repository:
+https://github.com/ayub46584-cell/House-Price-Prediction-ML
+
+
+###  CodeBook User Data Analysis
+- Cleaned and analyzed user dataset using Pure Python
+- Performed basic data analysis and preprocessing
 
 
 ## Connect with Me
